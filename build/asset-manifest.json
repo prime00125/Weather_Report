@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prime00125/Weather_Report.git/static/css/main.49b745d3.css",
+    "main.js": "/prime00125/Weather_Report.git/static/js/main.fef61f71.js",
+    "static/media/weather-homepage.jpg": "/prime00125/Weather_Report.git/static/media/weather-homepage.cb88abaf28b5ee120f82.jpg",
+    "static/media/Homelogo.png": "/prime00125/Weather_Report.git/static/media/Homelogo.8149da86a2a8f112d37b.png",
+    "static/media/cloud.png": "/prime00125/Weather_Report.git/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/prime00125/Weather_Report.git/index.html",
+    "main.49b745d3.css.map": "/prime00125/Weather_Report.git/static/css/main.49b745d3.css.map",
+    "main.fef61f71.js.map": "/prime00125/Weather_Report.git/static/js/main.fef61f71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b745d3.css",
+    "static/js/main.fef61f71.js"
+  ]
+}

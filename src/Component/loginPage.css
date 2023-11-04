@@ -1,0 +1,50 @@
+.loginCard{
+    position: absolute;
+    left:30%;
+    top:17%;
+
+
+    
+}
+.card{
+    width: '30rem';
+     height:'60vh';
+     box-shadow:'3px 10px 50px black';
+     position: relative;
+     left:30%;
+}
+.btnLogin{
+    height: 4vh;
+    border-radius:10px;
+    box-shadow: 4px 2px 10px black;
+    width:200px;
+    margin-top :40px;
+    height:5vh;
+}
+.signuptext{
+    font-size: 15px;
+
+}
+#dis, #dis2{
+    color:red !important;
+}
+
+/* FOR Tablet */
+
+
+@media only screen and (min-width:761px) and (max-width:1023px)
+{
+  .card{
+    left:-20%;
+    
+  }
+}
+
+/* FOR MOBILE */
+@media screen and (min-width:320px) and (max-width:760px)
+{
+    .card{
+        left:-20%;
+        
+      }
+}
